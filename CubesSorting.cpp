@@ -1,8 +1,13 @@
 #include<iostream>
+/* 
+happy coding 
+*/
 int main(){
+
     using namespace std;
     int t;
     cin >> t;
+    
     while(t--){
         int n,i;
         cin >> n;
